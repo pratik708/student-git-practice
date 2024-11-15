@@ -1,0 +1,1 @@
+-e "My Portfolio\n------------\nProjects:\n1. Gym management system\n   Description: easily access gym facilities\n   Technologies: c++ , react.js\n\n2. Learning management system\n   Description: access course content\n   Technologies: java , react.js" 
